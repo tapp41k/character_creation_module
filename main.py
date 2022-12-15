@@ -1,7 +1,9 @@
 """Импортирует функцию randint из модуля random."""
 from random import randint
 
-"""Импорт функции run_screensaver из файла start_game_banner (Графический модуль)."""
+"""
+Импорт функции run_screensaver из файла start_game_banner (Графический модуль).
+"""
 from graphic_arts.start_game_banner import run_screensaver
 
 
