@@ -1,7 +1,4 @@
-"""
-Импорт функцию randint из модуля random.
-Импорт функции run_screensaver из файла start_game_banner (Графический модуль).
-"""
+"""Программа представляет собой текстовую РПГ игру с графическим модулем."""
 from random import randint
 
 from graphic_arts.start_game_banner import run_screensaver
